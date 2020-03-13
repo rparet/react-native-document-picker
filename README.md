@@ -252,7 +252,7 @@ RNFS.uploadFiles({
            case "cancelled":
              console.log("Upload cancelled");
              break;
-           case "empty"
+           case "empty":
              console.log("Empty file");
            default:
             //Unknown
